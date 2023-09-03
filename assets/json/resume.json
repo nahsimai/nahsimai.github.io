@@ -31,14 +31,32 @@
       "endDate": "",
       "summary": "Working on verification methods for homologation of automated driving functions",
       "highlights": []
+    },
+    {
+      "name": "SONAH GmbH",
+      "position": "Software Engineer",
+      "url": "https://www.sonah.tech/",
+      "startDate": "01-01-2020",
+      "endDate": "31-08-2021",
+      "summary": "",
+      "highlights": []
     }
   ],
-  "volunteer": [],
+  "volunteer": [
+    {
+      "name": "Board of European Students of Technology",
+      "position": "",
+      "url": "https://best.eu.org/index.jsp",
+      "startDate": "2016-10-01",
+      "endDate": "2021-06-30",
+      "summary": "Worked in a multitude roles both at the local and international levels.",
+      "highlights": ["Vice-President for Public Relations"]
+  }],
   "education": [
     {
       "institution": "RWTH Aachen University, Germany",
       "url": "https://www.rwth-aachen.de",
-      "area": "Electrical Engineering",
+      "area": "Electrical Engineering, Information Technology and Computer Engineering",
       "studyType": "M.Sc.",
       "startDate": "01-09-2016",
       "endDate": "26-11-2019",
@@ -48,7 +66,7 @@
     {
       "institution": "MANIT, India",
       "url": "https://www.manit.ac.in",
-      "area": "Software Development",
+      "area": "Electronics and Communications Engineering",
       "studyType": "B.Tech",
       "startDate": "01-08-2012",
       "endDate": "01-05-2016",
@@ -75,7 +93,7 @@
       "fluency": "Fluent"
     }
   ],
-  "interests": [],
+  "interests": ["Cycling", "Table Tennis", "Badminton"],
   "references": [],
   "projects": []
 }
