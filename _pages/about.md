@@ -5,11 +5,10 @@ permalink: /
 subtitle: Scientific Researcher, Sports Enthusiast, Human.
 
 profile:
-  align: center
+  align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>Currently located at Oldenburg, Germany</p>
+  address:
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
