@@ -5,12 +5,11 @@ permalink: /
 subtitle: Scientific Researcher, Sports Enthusiast, Human.
 
 profile:
-  align: right
+  align: center
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Escherweg 2</p>
-    <p>26121 Oldenburg</p>
+    <p>Currently located at Oldenburg, Germany</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
