@@ -45,29 +45,29 @@
   "volunteer": [
     {
       "name": "Board of European Students of Technology",
-      "position": "",
+      "position": "Volunteer",
       "url": "https://best.eu.org/index.jsp",
       "startDate": "2016-10-01",
       "endDate": "2021-06-30",
       "summary": "Worked in a multitude roles both at the local and international levels.",
-      "highlights": ["Vice-President for Public Relations"]
+      "highlights": ["Vice-President for Public Relations", "Secretary, Public Relations Department"]
   }],
   "education": [
     {
       "institution": "RWTH Aachen University, Germany",
       "url": "https://www.rwth-aachen.de",
       "area": "Electrical Engineering, Information Technology and Computer Engineering",
-      "studyType": "M.Sc.",
+      "studyType": "Master of Science",
       "startDate": "2016-09-01",
       "endDate": "2019-11-26",
       "score": "",
       "courses": []
     },
     {
-      "institution": "MANIT, India",
+      "institution": "Maulana Azad National Institute of Technology, Bhopal, India",
       "url": "https://www.manit.ac.in",
       "area": "Electronics and Communications Engineering",
-      "studyType": "B.Tech",
+      "studyType": "Bachelor of Technology",
       "startDate": "2012-08-01",
       "endDate": "2016-05-01",
       "score": "",
@@ -93,7 +93,16 @@
       "fluency": "Fluent"
     }
   ],
-  "interests": ["Cycling", "Table Tennis", "Badminton"],
+  "interests": [
+    {
+      "name" : "Cycling"
+    },
+    {
+      "name" : "Table Tennis"
+    }, 
+    {
+      "name" : "Badminton"
+    }],
   "references": [],
   "projects": []
 }
