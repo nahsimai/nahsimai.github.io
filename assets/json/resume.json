@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Ishan Saxena",
-    "label": "Scientist",
+    "label": "Scientific Researcher",
     "image": "",
     "email": "",
     "phone": "",
@@ -27,7 +27,7 @@
       "name": "DLR Institute of Systems Engineering for Future Mobility",
       "position": "Scientific Staff",
       "url": "https://www.dlr.de/se",
-      "startDate": "01-09-2021",
+      "startDate": "2021-09-01",
       "endDate": "",
       "summary": "Working on verification methods for homologation of automated driving functions",
       "highlights": []
@@ -36,8 +36,8 @@
       "name": "SONAH GmbH",
       "position": "Software Engineer",
       "url": "https://www.sonah.tech/",
-      "startDate": "01-01-2020",
-      "endDate": "31-08-2021",
+      "startDate": "2020-01-01",
+      "endDate": "2021-08-31",
       "summary": "",
       "highlights": []
     }
@@ -58,8 +58,8 @@
       "url": "https://www.rwth-aachen.de",
       "area": "Electrical Engineering, Information Technology and Computer Engineering",
       "studyType": "M.Sc.",
-      "startDate": "01-09-2016",
-      "endDate": "26-11-2019",
+      "startDate": "2016-09-01",
+      "endDate": "2019-11-26",
       "score": "",
       "courses": []
     },
@@ -68,8 +68,8 @@
       "url": "https://www.manit.ac.in",
       "area": "Electronics and Communications Engineering",
       "studyType": "B.Tech",
-      "startDate": "01-08-2012",
-      "endDate": "01-05-2016",
+      "startDate": "2012-08-01",
+      "endDate": "2016-05-01",
       "score": "",
       "courses": []
     }
