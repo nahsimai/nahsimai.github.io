@@ -6,7 +6,7 @@ subtitle: Scientist in training, Sports enthusiast, Human.
 
 profile:
   align: centre
-  image: prof_pic.jpg
+  image: pic_is.jpg
   image_circular: false # crops the image to make it circular
   address:
 
